@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## This is the landing page for my git repository.  I am looking to provide a variety of projects which are focussed around my current interest in Python coding and specifically data science and machine learning.
+
 <!--
 **ejrgit/ejrgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
